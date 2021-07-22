@@ -18,7 +18,7 @@ async def on_message(message):
     if message.author == bot.user:
         return
 
-    if message.content.startswith('hello konekoo'):
+    if message.content.startswith('hello koneko'):
         await message.channel.send('Hello!')
 
     if bot.user.mentioned_in(message):
