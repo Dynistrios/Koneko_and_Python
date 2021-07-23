@@ -1,17 +1,6 @@
 Koneko_and_py
 ==========
 
-.. image:: https://discord.com/api/guilds/712644384780320831/embeds.png
-   :target: https://discord.gg/yWVUChR
-   :alt: Discord server invite
-.. image:: https://img.shields.io/pypi/v/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPI supported Python versions
-
-
 Get a prototype bot discord python chatbot !
 
 
