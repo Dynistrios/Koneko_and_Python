@@ -1,7 +1,7 @@
 Koneko_and_py
 ==========
 
-.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
+.. image:: https://discord.com/api/guilds/712644384780320831/embed.png
    :target: https://discord.gg/yWVUChR
    :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
@@ -31,7 +31,7 @@ To install the library, you can just run the following command:
     pip install -U discord.py
 
 
-To install requests for get a reponse json of an api, following this command in your terminal:
+To install requests for get a json response of an api, following this command in your terminal:
 
 .. code:: sh
 
