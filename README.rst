@@ -2,6 +2,7 @@ Koneko_and_py
 ==========
 
 Get a prototype bot discord python chatbot !
+The api is not provided
 
 
 Installing
