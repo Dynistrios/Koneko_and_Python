@@ -11,7 +11,8 @@ Koneko_and_py
    :target: https://pypi.python.org/pypi/discord.py
    :alt: PyPI supported Python versions
 
-Get a bot discord python chatbot !
+
+Get a prototype bot discord python chatbot !
 
 
 Installing
