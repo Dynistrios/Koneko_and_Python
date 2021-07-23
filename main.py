@@ -19,7 +19,7 @@ async def on_message(message):
         return
 
     if message.content.startswith('hello koneko'):
-        await message.channel.send('Hello!')
+        await message.channel.send('Hello !')
 
     if bot.user.mentioned_in(message):
 
@@ -44,4 +44,4 @@ async def on_message(message):
         
         
 
-bot.run('NzgzMzcyNDc0MzMwMzgyNDE3.X8ZyeA.Z9lX0W2A81tej1IZGOCNNVVGJOo')
+bot.run('Ton token')
