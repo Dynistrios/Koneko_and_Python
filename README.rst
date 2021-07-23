@@ -1,7 +1,7 @@
 Koneko_and_py
 ==========
 
-Get a prototype bot discord python chatbot !
+Get a method for make a bot discord chatbot in python  !
 The api is not provided
 
 
