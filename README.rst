@@ -1,7 +1,7 @@
 Koneko_and_py
 ==========
 
-.. image:: https://discord.com/api/guilds/712644384780320831/widget.json
+.. image:: https://discord.com/api/guilds/712644384780320831/embeds.png
    :target: https://discord.gg/yWVUChR
    :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
