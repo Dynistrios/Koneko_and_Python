@@ -20,7 +20,7 @@ To install the library, you can just run the following command:
     pip install -U discord.py
 
 
-To install requests for get a reponse json of an api, following this command in your terminal:
+To install requests for get a json response of an api, following this command in your terminal:
 
 .. code:: sh
 
