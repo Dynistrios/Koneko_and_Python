@@ -32,7 +32,7 @@ async def on_message(message):
         
         repond = newmsg.lower()
 
-        url = f"your api"
+        url = f"https://api.affiliateplus.xyz/api/chatbot?message={repond}&botname=Koneko_NAME&ownername=Quincy_NAME&user={message.author.name}"
         
         response = requests.get(url, verify=True)
         
