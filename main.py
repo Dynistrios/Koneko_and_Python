@@ -6,7 +6,7 @@ import re
 
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='$k!')
+bot = commands.Bot(command_prefix='k!')
 
 
 @bot.event
