@@ -11,7 +11,7 @@ bot = commands.Bot(command_prefix='k!')
 
 @bot.event
 async def on_ready():
-    print('We have logged in as {0.user}'.format(bot))
+    print(f'We have logged in as {bot.user}')
 
 @bot.event
 async def on_message(message):
@@ -32,7 +32,7 @@ async def on_message(message):
         
         repond = newmsg.lower()
 
-        url = f"Your api"
+        url = "Your api"
         
         response = requests.get(url, verify=True)
         
